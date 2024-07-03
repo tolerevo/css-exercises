@@ -1,0 +1,14 @@
+button .buttn{
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.gothic {
+  background-color: #010101;
+  color: #ffff;
+  font-weight: bold;
+}
+
+.sunny {
+  background-color: yellow;
+}
