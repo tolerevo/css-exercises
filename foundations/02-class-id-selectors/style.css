@@ -1,0 +1,19 @@
+#blue-div {
+  color:#4F77CA;
+  font-size: 36px;
+}
+
+#green-div {
+  background-color: #28C841;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.paragraph {
+  background-color: #FFA6A7;
+  font-family: Verdana, 'DejaVu Sans',sans-serif;
+}
+
+.cooler.paragraph {
+  font-size: 24px;
+}
